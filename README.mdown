@@ -1,0 +1,33 @@
+# SFF-Helper-Bot
+
+## Description
+This Bot is open source and used for organisational automisation in the activist group Students for Future Hamburg. The Bot contains following functionalities and features:
+
+- generates simple sample text forms to avoid copy and paste
+- timed text posts in groups to avoid missing it to post it 
+- tbh.
+
+
+## Usage
+- todo:
+  - link to telegram bot
+  - how to install and use it
+
+### Commands
+
+Following `commands` are accepted:
+- `\website` This command 
+- `\onboarding` This command generates a simple onboarding message. It's just a sample which can be used and all the blanks can be filled.
+
+## Contributing
+- todo
+
+## Erros and Issues
+Either post an issue or contact following developers for a bug report:
+
+- todo@todo.de
+
+## Versions
+
+1. Version: 0.1
+   - First BringUp with 2-3 commands
