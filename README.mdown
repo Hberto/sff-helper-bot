@@ -5,7 +5,7 @@ This Bot is open source and used for organisational automisation in the activist
 
 - generates simple sample text forms to avoid copy and paste
 - timed text posts in groups to avoid missing it to post it 
-- tbh.
+- tba.
 
 
 ## Usage
