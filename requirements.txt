@@ -1,0 +1,2 @@
+# Install wrapper
+python-telegram-bot --upgrade
