@@ -1,17 +1,20 @@
 # SFF-Helper-Bot
+<img src=".\docs\pictures\bot-logo.png" width="250">
 
 ## Description
 This Bot is open source and used for organisational automisation in the activist group Students for Future Hamburg. The Bot contains following functionalities and features:
 
 - generates simple sample text forms to avoid copy and paste
-- timed text posts in groups to avoid missing it to post it 
+- timed text posts in groups to avoid missing it to post it
+- simple ui for usage 
 - tba.
 
 
 ## Usage
-- todo:
-  - link to telegram bot
-  - how to install and use it
+1. Find the username
+Username: @sffhh_bot
+2. Add to group/channel etc.
+3. Put the \start command to start the bot
 
 ### Commands
 
@@ -20,7 +23,27 @@ Following `commands` are accepted:
 - `\onboarding` This command generates a simple onboarding message. It's just a sample which can be used and all the blanks can be filled.
 
 ## Contributing
-- todo
+
+### Prerequisites
+- python >= 3.8
+- Basic knowlegde of Git
+- Token for the bot
+
+To build this project follow these steps:
+1. Clone this repository:
+```bash
+$ git clone https://github.com/Hberto/sff-helper-bot.git
+$ cd sff-helper-bot
+```
+2. Install the requirements
+```bash
+$ pip install -r requirements.txt
+```
+3. Run the script
+```bash
+$ python main.py
+```
+
 
 ## Erros and Issues
 Either post an issue or contact following developers for a bug report:
